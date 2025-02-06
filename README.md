@@ -1,5 +1,5 @@
-Projeto de Análise de Livros Mais Vendidos:
-  Este projeto foi desenvolvido com o objetivo de aplicar e expandir meus conhecimentos em Python, utilizando ferramentas para análise de dados e visualização interativa. 
+# Projeto de Análise de Livros Mais Vendidos:
+  ##Este projeto foi desenvolvido com o objetivo de aplicar e expandir meus conhecimentos em Python, utilizando ferramentas para análise de dados e visualização interativa. 
 Através dele, foi possível criar uma plataforma que apresenta informações detalhadas sobre os livros mais vendidos, incluindo gráficos dinâmicos para uma melhor exploração dos dados.
 
 Principais Funcionalidades:
